@@ -10,7 +10,7 @@ Wait until an address become available.
 
 ### Download
 
-[Releases](https://github.com/maxcnunes/waitforit/releases)
+[Releases](https://github.com/maxclaus/waitforit/releases)
 
 ### Options
 
